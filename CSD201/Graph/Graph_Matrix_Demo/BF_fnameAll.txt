@@ -1,0 +1,2 @@
+BF all vertex, from A:
+A E F G I B C H D 

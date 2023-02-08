@@ -1,0 +1,13 @@
+**Làm theo nhóm, mỗi nhóm tối đa 4 sinh viên**
+Thiết kế và cài đặt CSDL đáp ứng các yêu cầu sau:
+	- Quản lý thông tin đăng ký học của sinh viên
+	- Quản lý thông tin thời khóa biểu 
+	- Quản lý thông tin điểm danh của sinh viên trong các slot có thời khóa biểu
+	- Quản lý kết quả học của các môn học đã đăng ký học
+
+1. Xác định các dữ liệu cần quản lý (data object và thuộc tính đi kèm)
+2. Thiết kế mô hình ER
+3. Chuyển mô hình ER thành lược đồ CSDL quan hệ (relational database schemas):
+	- Liệt kê các relations
+	- Chụp DB diagram
+4. Viết các lệnh SQL (10: SELECT, INSERT, UPDATE, DELETE) để thực hiện các yêu cầu quản lý đã nêu
